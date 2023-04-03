@@ -17,6 +17,8 @@ Cars24.com is an online platform that allows users to buy and sell used cars in 
 TimesJobs is a popular job portal in India that connects job seekers with employers across different industries and job functions. The website contains a wealth of data about job openings, salaries, job descriptions, and candidate requirements. By web scraping TimesJobs, one can extract valuable data that can be used for various purposes, such as job market analysis, salary benchmarking, and talent sourcing. Web scraping TimesJobs can provide information such as job title, job description, company name, location, experience level, education requirement, and more. This data can be further processed and analyzed to identify hiring trends, skill demand, and other insights related to the job market in India. Job Posts directory contains the details scraped from the site for specific job interest.
 
 
+Resources used for this repo - [Click Here](https://www.youtube.com/watch?v=XVv6mJpFOb0).
+
 
 
 
