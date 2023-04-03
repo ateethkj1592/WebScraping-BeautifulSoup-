@@ -7,9 +7,9 @@ This repository provides a simple introduction to web scraping using the Beautif
 To use this code, you will need to have jupyter notebook installed on your computer. You will also need to install the Beautiful Soup library. You can do this using pip, the package installer for Python. Open your command prompt and run the following command:
 
 
-'''
+' ' '
 pip install beautifulsoup4
-'''
+' ' '
 
 
 ## Usage 
